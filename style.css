@@ -35,7 +35,6 @@
 
 p {
     margin: 0
-
 }
 
 .heart:before, .heart:after {
@@ -60,7 +59,7 @@ p {
 }
 
 .heart:before {
-    background: red;
+    background: white;
     background: -webkit-radial-gradient(15% 50%, 65px 65px, #FFE4E1, red);
     background: -moz-radial-gradient(15% 50%, circle, #FFE4E1, red 85%);
     background: -o-radial-gradient(15% 50%, 65% 65%, #FFE4E1, red);
