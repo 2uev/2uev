@@ -2,8 +2,8 @@
     position: absolute;
     top: 45%;
     left: 40%;
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
     -webkit-transform: rotate(45deg);  /* для Chrome и Safari */
     -moz-transform: rotate(45deg); /* для Firefox */
     -o-transform: rotate(45deg); /* для Opera */
